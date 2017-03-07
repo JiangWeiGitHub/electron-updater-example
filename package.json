@@ -1,6 +1,6 @@
 {
   "name": "electron-updater-example",
-  "version": "0.4.1",
+  "version": "0.4.3",
   "main": "main.js",
   "description": "electron-updater example project",
   "author": "Matt Haggard",
@@ -13,9 +13,9 @@
     "electron-updater": "^1.4.2"
   },
   "build": {
-    "appId": "com.github.iffy.electronupdaterexample",
+    "appId": "lewis.ma@winsuntech.cn",
     "mac": {
-      "category": "your.app.category.type",
+      "category": "public.app-category.tools",
       "target": [
         "zip",
         "dmg"
