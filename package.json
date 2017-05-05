@@ -23,6 +23,11 @@
     },
     "nsis": {
       "perMachine": true
-    }
+    },
+    "publish": [{
+       "provider": "github",
+       "owner": "JiangWeiGitHub",
+       "repo": "electron-updater-example"
+    }]
   }
 }
